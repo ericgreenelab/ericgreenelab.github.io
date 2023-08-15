@@ -22,7 +22,7 @@ abstract: "Deep-learning language models have shown promise in various biotechno
 pdbs:
   - 7RGR
 categories:
-  - Publications
+  - posts
 tags:
   - deep learning
   - structures

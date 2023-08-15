@@ -20,7 +20,7 @@ authors:
   - Zhongping Tan
 abstract: "Protein glycosylation is a ubiquitous post-translational modification in all kingdoms of life. Despite its importance in molecular and cellular biology, the molecular-level ramifications of *O*-glycosylation on biomolecular structure and function remain elusive. Here, we took a small model glycoprotein and changed the glycan structure and size, amino acid residues near the glycosylation site, and glycosidic linkage while monitoring any corresponding changes to physical stability and cellulose binding affinity. The results of this study reveal the collective importance of all the studied features in controlling the most pronounced effects of *O*-glycosylation in this system. Going forward, this study suggests the possibility of designing proteins with multiple improved properties by simultaneously varying the structures of *O*-glycans and amino acids local to the glycosylation site."
 categories:
-  - Publications
+  - posts
 tags:
   - glycosylation
 ---

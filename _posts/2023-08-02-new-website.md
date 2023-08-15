@@ -4,7 +4,7 @@ layout: single
 author: hogan-daniel
 excerpt: Lauching a new website for the Greene Lab
 categories:
-  - Blog posts
+  - posts
 tags:
   - meta
 ---
