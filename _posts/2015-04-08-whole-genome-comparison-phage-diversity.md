@@ -7,7 +7,7 @@ citation: "2015;4:e06416"
 doi: "10.7554/eLife.06416"
 authors:
   - Welkin H Pope
-  - Charles A.. Bowman
+  - Charles A. Bowman
   - Daniel A. Russell
   - Deborah Jacobs-Sera
   - David J. Asai
