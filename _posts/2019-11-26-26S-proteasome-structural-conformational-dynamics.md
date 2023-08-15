@@ -2,7 +2,7 @@
 title: "Understanding the 26S proteasome molecular machine from a structural and conformational dynamics perspective"
 author: greene-eric
 publication: true
-journal: "Currentn Opinion in Structural Biology"
+journal: "Current Opinion in Structural Biology"
 citation: "2020, 61:33-41"
 doi: "10.1016/j.sbi.2019.10.004"
 authors:
