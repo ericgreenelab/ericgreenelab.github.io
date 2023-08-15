@@ -1,0 +1,47 @@
+# This file is used both to populated the members page on the website
+# and to create author profiles for the sidebar of each post or
+# publication. The ordering of the below entries sets the ordering of
+# the members page.
+
+# Below is the default form for people in the lab. The first 6 fields
+# (everything before "email") are mandatory.
+
+#lastname-firstname:
+#  name:     First Last
+#  bio:      Graduate student, Biophysics #lab position, appears in sidebar of every post
+#  fullbio:  "" #appears as the main text on the members page; new paragraphs require two blank lines
+#  avatar:   /assets/images/last-first.jpg #square headshot, ~500px and <300 kB
+#  member:   true
+#  current:  true
+#  email:    first.last@ucsf.edu
+#  twitter:  ExampleHandle
+#  website:  https://example.com/
+
+greene-eric:
+  name:     Eric Greene
+  bio:      Assistant Professor
+  fullbio:  "Eric graduated from the University of Colorado, Boulder with degrees in Biochemistry and Molecular, Cellular, and Development Biology. As an undergraduate, he worked with Dr. Zhongping Tan using chemical biology approaches to study glycosylated proteins.
+
+
+As a graduate student in [Dr. Andy Martin’s](http://mcb.berkeley.edu/labs/martin/) lab at UC Berkeley, Eric studied how conformations and conformational dynamics of the 26S proteasome influence degradation processes. He also collaborated with [Dr. Susan Marqusee’s](https://zebra.berkeley.edu) lab to help illuminate how energetic changes conferred by site-specific ubiquitination on substrate proteins influenced whether, and how, these proteins were degraded by the proteasome.
+
+
+Eric was a postdoc in [James Fraser's](https://fraserlab.com) lab at UCSF, where he worked on project seeking to understand how protein conformations impact function and regulation, and, how posttranslational factors that occur throughout a protein’s lifetime further tune function."
+  avatar:   /assets/images/greene-eric.jpg
+  member:   true
+  current:  true
+  email:    egreene@sfsu.edu
+  twitter:  EricRGreene1
+
+
+## Former members
+
+hogan-daniel:
+  name:     Daniel Hogan
+  bio:      Web site setter-upper
+  avatar:   /assets/images/hogan-daniel.jpg
+  member:   true
+  current:  false
+  start:    2023
+  end:      2023
+  next:     Bioinformatics programmer, UCSF
