@@ -1,8 +1,6 @@
 ---
 name: Research interest
 index: 2
-image: /assets/images/wt_decamer_ensemble_short.png
-image_alt: "A sub-sample of human glutamine synthetase ensemble refinement models overlayed."
 ---
 <img src="/assets/images/wt_decamer_ensemble_short.png" alt="A sub-sample of human glutamine synthetase ensemble refinement models overlayed." class="large-image">
 
