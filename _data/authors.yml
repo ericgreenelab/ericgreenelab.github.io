@@ -34,9 +34,10 @@ Eric was a postdoc in [James Fraser's](https://fraserlab.com) lab at UCSF, where
   twitter:  EricRGreene1
 
 alkabbani-haneen:
-  name: Haneen Alkabbani
-  bio: Sophomore CSU LSAMP Scholar pursuing B.S. and M.S. in Biochemistry
+  name:     Haneen Alkabbani
+  bio:      Sophomore CSU LSAMP Scholar pursuing B.S. and M.S. in Biochemistry
   fullbio: "Haneen Alkabbani is a sophomore pursuing a Bachelor of Science in Biochemistry at San Francisco State University. As a dedicated member of "Team Oxidation," Haneen contributes to a research project aimed at exploring methods to oxidize wild-type glutamine synthetase proteins. 
+
   
   Outside the lab and classroom, Haneen enjoys exploring San Francisco with friends, often discovering new coffee shops around the city."
   avatar:   /assets/images/Alkabbani.jpg
@@ -44,67 +45,66 @@ alkabbani-haneen:
   current:  true
 
 bautista-andrew:
-  name: Andrew Bautista
-  bio: First year graduate student pursuing M.S. in Biochemistry
+  name:     Andrew Bautista
+  bio:      First year graduate student pursuing M.S. in Biochemistry
   fullbio: 
   avatar:   
   member:   true
   current:  true
 
 geluz-cyrina:
-  name: Cyrina Geluz
-  bio: Senior pursuing B.S. in Biochemistry
+  name:     Cyrina Geluz
+  bio:      Senior pursuing B.S. in Biochemistry
   fullbio: 
   avatar:   
   member:   true
   current:  true
 
 hales-madison:
-  name: Madison Hales
-  bio: Senior pursuing B.S. in Biochemistry
+  name:     Madison Hales
+  bio:      Senior pursuing B.S. in Biochemistry
   fullbio: 
   avatar:   
   member:   true
   current:  true
 
 hernandez-emily:
-  name: Emily Hernandez
-  bio: SEO scholar pursuing M.S. in Biochemistry
+  name:     Emily Hernandez
+  bio:      SEO scholar pursuing M.S. in Biochemistry
   fullbio: 
   avatar:   
   member:   true
   current:  true
 
 jacobs-rowan:
-  name: Rowan Jacobs
-  bio: First year graduate student pursuing M.S. in Biochemistry
+  name:     Rowan Jacobs
+  bio:      First year graduate student pursuing M.S. in Biochemistry
   fullbio: 
   avatar:   
   member:   true
   current:  true
 
 leung-ryan:
-  name: Ryan Leung
-  bio: 4th Year SF State Scholar pursuing B.S. and M.S. in Biochemistry
-  fullbio: "Haneen Alkabbani is a sophomore pursuing a Bachelor of Science in Biochemistry at San Francisco State University. As a dedicated member of "Team Oxidation," Haneen contributes to a research project aimed at exploring methods to oxidize wild-type glutamine synthetase proteins. 
-  
-  Outside the lab and classroom, Haneen enjoys exploring San Francisco with friends, often discovering new coffee shops around the city."
+  name:     Ryan Leung
+  bio:      4th Year SF State Scholar pursuing B.S. and M.S. in Biochemistry
+  fullbio:  "Evaluating cytosolic metabolites for their potential allosteric modulation of glutamine synthetase. In my free time I build plastic model kits, play tabletop/video games, and play tennis."
   avatar:   /assets/images/Leung.jpg
   member:   true
   current:  true
 
 mejia-emilio:
-  name: Emilio Mejia
-  bio: SF State Scholar pursuing B.S. in Biochemistry
+  name:     Emilio Mejia
+  bio:      SF State Scholar pursuing B.S. in Biochemistry
   fullbio: 
   avatar:   
   member:   true
   current:  true
 
 tecson-markus:
-  name: Markus Tecson
-  bio: SF State Scholar pursuing B.S. and M.S. in Biochemistry
+  name:     Markus Tecson
+  bio:      SF State Scholar pursuing B.S. and M.S. in Biochemistry
   fullbio: "Markus is using a combination of biochemical, biophysical, and computational techniques to explore how human glutamine synthetase communicates through allosteric pathways. This enzyme plays a key role in both cancer and neurodegenerative diseases, making the discoveries especially exciting for future therapies. In addition to being an SF State Scholar, I am a NIH U-RISE, NSF CSU-LSAMP Fellow, and McKinney Scholar.
+
   
   Outside of the lab, Markus loves to spend time with his cat and play video games. He is also an avid photographer, runner, and pretends to know how to play piano!"
   avatar:   /assets/images/Tecson.jpg
