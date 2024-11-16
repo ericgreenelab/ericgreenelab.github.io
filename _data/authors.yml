@@ -47,40 +47,40 @@ alkabbani-haneen:
 bautista-andrew:
   name:     Andrew Bautista
   bio:      First year graduate student pursuing M.S. in Biochemistry
-  fullbio: 
-  avatar:   
+  fullbio:  "" 
+  avatar:   /assets/images/404cat.jpg   
   member:   true
   current:  true
 
 geluz-cyrina:
   name:     Cyrina Geluz
   bio:      Senior pursuing B.S. in Biochemistry
-  fullbio: 
-  avatar:   
+  fullbio:  "" 
+  avatar:   /assets/images/404cat.jpg   
   member:   true
   current:  true
 
 hales-madison:
   name:     Madison Hales
   bio:      Senior pursuing B.S. in Biochemistry
-  fullbio: 
-  avatar:   
+  fullbio:  "" 
+  avatar:   /assets/images/404cat.jpg   
   member:   true
   current:  true
 
 hernandez-emily:
   name:     Emily Hernandez
   bio:      SEO scholar pursuing M.S. in Biochemistry
-  fullbio: 
-  avatar:   
+  fullbio:  "" 
+  avatar:   /assets/images/404cat.jpg   
   member:   true
   current:  true
 
 jacobs-rowan:
   name:     Rowan Jacobs
   bio:      First year graduate student pursuing M.S. in Biochemistry
-  fullbio: 
-  avatar:   
+  fullbio:  "" 
+  avatar:   /assets/images/404cat.jpg   
   member:   true
   current:  true
 
@@ -95,8 +95,8 @@ leung-ryan:
 mejia-emilio:
   name:     Emilio Mejia
   bio:      SF State Scholar pursuing B.S. in Biochemistry
-  fullbio: 
-  avatar:   
+  fullbio:  "" 
+  avatar:   /assets/images/404cat.jpg   
   member:   true
   current:  true
 
@@ -112,10 +112,10 @@ tecson-markus:
   current:  true
 
 von-Merta-Sustarich-Michelle:
-  name: Michelle von Merta-Sustarich
-  bio: First year graduate student pursuing M.S. in Biochemistry
-  fullbio: 
-  avatar:   
+  name:     Michelle von Merta-Sustarich
+  bio:      First year graduate student pursuing M.S. in Biochemistry
+  fullbio:  ""
+  avatar:   /assets/images/404cat.jpg
   member:   true
   current:  true
 
