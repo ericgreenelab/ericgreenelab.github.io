@@ -47,7 +47,11 @@ alkabbani-haneen:
 bautista-andrew:
   name:        Andrew Bautista
   bio:         First year graduate student pursuing M.S. in Biochemistry
-  fullbio:     ""
+  fullbio:     "
+  
+  
+  
+  "
   avatar:      /assets/images/404cat.jpg
   member:      true
   current:     true
@@ -55,7 +59,11 @@ bautista-andrew:
 geluz-cyrina:
   name:        Cyrina Geluz
   bio:         Senior pursuing B.S. in Biochemistry
-  fullbio:     ""
+  fullbio:     "
+  
+  
+  
+  "
   avatar:      /assets/images/404cat.jpg
   member:      true
   current:     true
@@ -63,7 +71,11 @@ geluz-cyrina:
 hales-madison:
   name:        Madison Hales
   bio:         Senior pursuing B.S. in Biochemistry
-  fullbio:     ""
+  fullbio:     "
+  
+  
+  
+  "
   avatar:      /assets/images/404cat.jpg
   member:      true
   current:     true
@@ -71,7 +83,11 @@ hales-madison:
 hernandez-emily:
   name:        Emily Hernandez
   bio:         SEO scholar pursuing M.S. in Biochemistry
-  fullbio:     ""
+  fullbio:     "
+  
+  
+  
+  "
   avatar:      /assets/images/404cat.jpg
   member:      true
   current:     true
@@ -79,7 +95,11 @@ hernandez-emily:
 jacobs-rowan:
   name:        Rowan Jacobs
   bio:         First year graduate student pursuing M.S. in Biochemistry
-  fullbio:     ""
+  fullbio:     "
+  
+  
+  
+  "
   avatar:      /assets/images/404cat.jpg
   member:      true
   current:     true
@@ -87,7 +107,9 @@ jacobs-rowan:
 leung-ryan:
   name:        Ryan Leung
   bio:         4th Year SF State Scholar pursuing B.S. and M.S. in Biochemistry
-  fullbio:     "Evaluating cytosolic metabolites for their potential allosteric modulation of glutamine synthetase. In my free time I build plastic model kits, play tabletop/video games, and play tennis."
+  fullbio:     "Evaluating cytosolic metabolites for their potential allosteric modulation of glutamine synthetase. 
+  
+  In my free time I build plastic model kits, play tabletop/video games, and play tennis."
   avatar:      /assets/images/Leung.jpg
   member:      true
   current:     true
@@ -95,7 +117,11 @@ leung-ryan:
 mejia-emilio:
   name:        Emilio Mejia
   bio:         SF State Scholar pursuing B.S. in Biochemistry
-  fullbio:     ""
+  fullbio:     "
+  
+  
+  
+  "
   avatar:      /assets/images/404cat.jpg
   member:      true
   current:     true
@@ -114,7 +140,11 @@ tecson-markus:
 von-Merta-Sustarich-Michelle:
   name:        Michelle von Merta-Sustarich
   bio:         First year graduate student pursuing M.S. in Biochemistry
-  fullbio:     ""
+  fullbio:     "
+  
+  
+  
+  "
   avatar:      /assets/images/404cat.jpg
   member:      true
   current:     true
