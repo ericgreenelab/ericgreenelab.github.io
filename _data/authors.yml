@@ -141,7 +141,10 @@ tecson-markus:
   fullbio:     "Markus is using a combination of biochemical, biophysical, and computational techniques to explore how human glutamine synthetase communicates through allosteric pathways. This enzyme plays a key role in both cancer and neurodegenerative diseases, making the discoveries especially exciting for future therapies. In addition to being an SF State Scholar, I am a NIH U-RISE, NSF CSU-LSAMP Fellow, and McKinney Scholar.
 
 
-     Outside of the lab, Markus loves to spend time with his cat and play video games. He is also an avid photographer, runner, and pretends to know how to play piano!"
+     Outside of the lab, Markus loves to spend time with his cat and play video games. He is also an avid photographer, runner, and pretends to know how to play piano!
+     
+     
+     "
   avatar:      /assets/images/Tecson.jpg
   member:      true
   current:     true
@@ -150,12 +153,14 @@ von-Merta-Sustarich-Michelle:
   name:        Michelle von Merta-Sustarich
   bio:         First year graduate student pursuing M.S. in Biochemistry
   fullbio:     "
-  
+Michelle Von Merta-Sustarich is pursuing her M.S. in Biochemistry and received her bachelor’s in Biochemistry from University of California Berkeley. Her research is focusing on ensemble-function relationships governing carbamoyl phosphate synthetase I function and dysfunction in cancer. 
 
-  
-  Full bio coming soon.
+
+Outside of school Michelle volunteers for the Slovene National Benefit Society of San Francisco as a proud third-generation Slovenian-American and has been awarded the title of “Kru” by the Thai Ministry of Education for her active engagement in the sport of Muay Thai.
+
+
   "
-  avatar:      /assets/images/404cat.jpg
+  avatar:      /assets/images/von Merta-Sustarich.jpg
   member:      true
   current:     true
 
