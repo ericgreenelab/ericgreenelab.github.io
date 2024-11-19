@@ -88,13 +88,12 @@ hales-madison:
 hernandez-emily:
   name:        Emily Hernandez
   bio:         SEO scholar pursuing M.S. in Biochemistry
-  fullbio:     "
+  fullbio:     "I am a First Gen Latina, and first year Master's Student I got my Bachelor's of Science in Biochemistry with a minor in Race and Resistance this last Spring. During my undergrad I did Biochemistry research with Dr. Greene in the Greene lab. 
   
-
   
-  Full bio coming soon.
+  Continuing my work with him as a graduate student, I am studying Tau protein amyloid conformations in diseases by inducing fibril formation with chemicals like sodium alginate and analyzing their structures using Cryo-EM. I'm also part of SEO as an NIH-Bridge MS Scholar and Secretary of the Chemistry and Biochemistry Student Association here on campus. Outside of school I love to travel, my most recent trip was a solo trip to Japan!
   "
-  avatar:      /assets/images/404cat.jpg
+  avatar:      /assets/images/Hernandez.jpg
   member:      true
   current:     true
 
