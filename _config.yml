@@ -13,7 +13,7 @@
 # you will see them accessed via {{ site.title }}, {{ site.email }}, and so on.
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
-title: Eric Greene Lab @ SFSU
+title: /assets/images/GL (1).png
 email: egreene@sfsu.edu
 description: Understand how protein motions contribute to enzyme catalysis, regulation, and protein turnover for large enzyme complexes by combining cryoEM with enzymology techniques
 twitter_username: EricRGreene1
