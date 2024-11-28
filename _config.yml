@@ -54,6 +54,11 @@ plugins:
   - jemoji
   - jekyll-include-cache
 
+  
+header:
+  image: /assets/images/GL (1).png
+
+  
 footer:
   links:
     - label: "GitHub"
