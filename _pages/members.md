@@ -51,7 +51,7 @@ Email: [{{ member.email }}](mailto:{{ member.email }})
 **{{ member.bio }}** {% if member.start %}({{ member.start }}{% if member.end and member.start != member.end %}&ndash;{{ member.end }}{% endif %}){% endif %}
 {% endif %}
 {% if member.next %}
-Next: {{ member.next }}
+Next position: {{ member.next }}
 {% endif %}
 {% endunless %}
 {% endif %}
@@ -59,4 +59,4 @@ Next: {{ member.next }}
 
 # Joining
 
-TODO
+If you are interested in joining, please contact [Dr. Greene](https://www.egreenelab.org/members/#eric-greene) by email to set up an appointment. Please note, that San Fracisco State University does NOT have a Ph.D. granting program in the chemical or biological sciences - if you are looking for a Ph.D. position please inquire at other universities. 
