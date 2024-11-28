@@ -164,6 +164,25 @@ Outside of school Michelle volunteers for the Slovene National Benefit Society o
   current:     true
 
 ## Former members
+fournier-daniel:
+  name:        Dan Fournier
+  bio:         Ensemble analysis, structural bioinformatics, and code debugger
+  avatar:      /assets/images/404cat.jpg
+  member:      true
+  current:     false
+  start:       2023
+  end:         2024
+  next:        Jr. Lab Assistant II, UCSF
+
+fournier-daniel:
+  name:        Yuly Cruz
+  bio:         Ensemble analysis and structural bioinformatics
+  avatar:      /assets/images/404cat.jpg
+  member:      true
+  current:     false
+  start:       2023
+  end:         2024
+  next:        Master's Student SFSU Biomedical Sciences  
 
 hogan-daniel:
   name:        Daniel Hogan
