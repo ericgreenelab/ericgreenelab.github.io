@@ -18,6 +18,7 @@ email: egreene@sfsu.edu
 description: Understand how protein motions contribute to enzyme catalysis, regulation, and protein turnover for large enzyme complexes by combining cryoEM with enzymology techniques
 twitter_username: EricRGreene1
 github_username: egreene488
+logo: "/assets/images/GL.png"
 search: true
 
 # Build settings
@@ -54,11 +55,7 @@ plugins:
   - jemoji
   - jekyll-include-cache
 
-  
-header:
-  image:      /assets/images/GL.png
 
-  
 footer:
   links:
     - label: "GitHub"
