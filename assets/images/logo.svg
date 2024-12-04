@@ -1,0 +1,41 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="-200 -150 400 300" width="400" height="300">
+	<defs>
+		<g id="snowflake-arm-chevron-inner">
+			<line x1="0" y1="0" x2="0" y2="30" stroke-width="7" />
+		</g>
+		<g id="snowflake-arm-chevron-center">
+			<line x1="0" y1="0" x2="0" y2="35" stroke-width="9" />
+		</g>
+		<g id="snowflake-arm-chevron-outer">
+			<line x1="0" y1="0" x2="0" y2="25" stroke-width="9" />
+		</g>
+		<g id="snowflake-arm" stroke="black" stroke-width="12" stroke-linecap="round">
+			<line x1="0" y1="0" x2="0" y2="135" />
+			<use href="#snowflake-arm-chevron-inner" transform="translate(0 30) rotate(60)"/>
+			<use href="#snowflake-arm-chevron-inner" transform="translate(0 30) rotate(-60)"/>
+			<use href="#snowflake-arm-chevron-center" transform="translate(0 75) rotate(60)"/>
+			<use href="#snowflake-arm-chevron-center" transform="translate(0 75) rotate(-60)"/>
+			<use href="#snowflake-arm-chevron-outer" transform="translate(0 100) rotate(60)"/>
+			<use href="#snowflake-arm-chevron-outer" transform="translate(0 100) rotate(-60)"/>
+		</g>
+		<g id="GL">
+			<text font-family="URW Gothic" font-weight="700" fill="white" font-size="20" textLength="22.5">GL</text>
+		</g>
+		<linearGradient id="linear-green">
+			<stop offset="0%" stop-color="#58dcb2" />
+			<stop offset="100%" stop-color="#18735f" />
+		</linearGradient>
+	</defs>
+
+	<circle cx="0" cy="0" r="120" fill="url(#linear-green)" opacity="1" transform="translate(60 0) rotate(210)"/>
+	<circle cx="0" cy="0" r="120" fill="url(#linear-green)" opacity="0.8" transform="translate(-60 0) rotate(30)"/>
+
+	<use href="#snowflake-arm" transform="rotate(0)" />
+	<use href="#snowflake-arm" transform="rotate(60)" />
+	<use href="#snowflake-arm" transform="rotate(120)" />
+	<use href="#snowflake-arm" transform="rotate(180)" />
+	<use href="#snowflake-arm" transform="rotate(240)" />
+	<use href="#snowflake-arm" transform="rotate(300)" />
+
+	<use href="#GL" transform="translate(-120 75) scale(10)" />
+</svg>
