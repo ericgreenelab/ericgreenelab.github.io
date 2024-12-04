@@ -59,4 +59,4 @@ Next position: {{ member.next }}
 
 # Joining
 
-If you are interested in joining, please contact [Dr. Greene](https://www.egreenelab.org/members/#eric-greene) by email to set up an appointment. Please note, that San Fracisco State University does NOT have a Ph.D. granting program in the chemical or biological sciences - if you are looking for a Ph.D. position please inquire at other universities. 
+If you are interested in joining, please contact [Dr. Greene](https://www.egreenelab.org/members/#eric-greene) by email to set up an appointment. Please note, that San Fracisco State University does NOT have a Ph.D. granting program in the chemical or biological sciences---if you are looking for a Ph.D. position please inquire at other universities.
