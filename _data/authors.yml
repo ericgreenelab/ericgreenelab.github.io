@@ -75,13 +75,13 @@ geluz-cyrina:
 hales-madison:
   name:        Madison Hales
   bio:         Senior pursuing B.S. in Biochemistry
-  fullbio:     "
-  
+  fullbio:     "Madison is a senior pursuing a B.S. in Biology with a Concentration in Physiology and a minor in Chemistry at San Francisco State University. She utilizes a combination of computational and molecular visualization methods to explore the impact of oligomeric state on protein dynamics and function of human glutamine synthetase.
 
-  
-  Full bio coming soon.
+
+
+  Outside of the lab, Madison works for a plastic surgeon as a medical assistant.  She also loves watching horror movies, playing golf, and hanging out with her cat Ranch.
   "
-  avatar:      /assets/images/404cat.jpg
+  avatar:      /assets/images/Hales.jpg
   member:      true
   current:     true
 
