@@ -100,13 +100,12 @@ hernandez-emily:
 jacobs-rowan:
   name:        Rowan Jacobs
   bio:         First year graduate student pursuing M.S. in Biochemistry
-  fullbio:     "
+  fullbio:     "Rowan is working on high throughput screening of cytosolic metabolites for allosteric activity affecting GS. 
   
-
   
-  Full bio coming soon.
+  When not in the lab, he enjoys video games, spending time with his cat, and listening to electronic music.
   "
-  avatar:      /assets/images/404cat.jpg
+  avatar:      /assets/images/Jacobs.png
   member:      true
   current:     true
 
