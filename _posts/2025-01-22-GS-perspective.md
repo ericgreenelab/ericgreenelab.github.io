@@ -2,7 +2,7 @@
 title: "Glutamine Synthetase: Diverse Regulation and Functions of an Ancient Enzyme"
 author: greene-eric
 publication: true
-journal: "Biochenmistry"
+journal: "Biochemistry"
 citation: "64(3), 547-554 (2025)"
 doi: "10.1021/acs.biochem.4c00763"
 authors:
