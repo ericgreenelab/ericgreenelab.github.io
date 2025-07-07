@@ -38,7 +38,7 @@ greene-eric:
 alkabbani-haneen:
   name:        Haneen Alkabbani
   bio:         Sophomore CSU LSAMP Scholar pursuing B.S. and M.S. in Biochemistry
-  fullbio:     "Haneen Alkabbani is a sophomore pursuing a Bachelor of Science in Biochemistry at San Francisco State University. As a dedicated member of 'Team Oxidation,' Haneen contributes to a research project aimed at exploring methods to oxidize wild-type glutamine synthetase proteins.
+  fullbio:     "Haneen Alkabbani is a sophomore pursuing a Bachelor of Science in Biochemistry at San Francisco State University. As a dedicated member of 'Team Oxidation' and 'Team Opposite Enzymes' Haneen contributes to each research project aimed at exploring how enzymes are regulated.
 
 
      Outside the lab and classroom, Haneen enjoys exploring San Francisco with friends, often discovering new coffee shops around the city."
@@ -49,39 +49,28 @@ alkabbani-haneen:
 bautista-andrew:
   name:        Andrew Bautista
   bio:         First year graduate student pursuing M.S. in Biochemistry
-  fullbio:     "
-
-  
-  
-  Full bio coming soon.
-  "
-  avatar:      /assets/images/404cat.jpg
+  fullbio:     "Andrew is pursuing his Master's degree in Biochemistry studying the mechanism behind posttranslational modification dependent inhibition of bacterial glutamine synthetase. Andrew received a B.S. with summa cum laude honors in Biochemistry from SF State in 2024 and, after excelling at protein biochemistry in his coursework, opted to pursue a graduate degree in the Greene lab. "
+  avatar:      /assets/images/Bautista.jpg
   member:      true
   current:     true
 
 geluz-cyrina:
   name:        Cyrina Geluz
   bio:         Senior pursuing B.S. in Biochemistry
-  fullbio:     "
-  
-
-  
-  Full bio coming soon.
-  "
-  avatar:      /assets/images/404cat.jpg
+  fullbio:     "Cyrina is pursuing a B.S. in Biochemistry at San Francisco State University and was one of the first members of the nascent Greene lab. An expert in protein visualization and biochemistry, Cyrina has contributed invaluably to 'Team Oxidation', 'Team Opposite Enzymes', and works independently to support the lab."
+  avatar:      /assets/images/Geluz.jpg
   member:      true
   current:     true
 
-hales-madison:
-  name:        Madison Hales
-  bio:         Senior pursuing B.S. in Biology (conc. Physiology & Chemistry minor)
-  fullbio:     "Madison is a senior pursuing a B.S. in Biology with a Concentration in Physiology and a minor in Chemistry at San Francisco State University. She utilizes a combination of computational and molecular visualization methods to explore the impact of oligomeric state on protein dynamics and function of human glutamine synthetase.
+gurung-lucky:
+  name:        Lucky Gurung
+  bio:         Junior pursuing B.S. in Biochemistry
+  fullbio:     "
 
-
-
-  Outside of the lab, Madison works for a plastic surgeon as a medical assistant.  She also loves watching horror movies, playing golf, and hanging out with her cat Ranch.
+  Full bio coming soon
+  
   "
-  avatar:      /assets/images/Hales.jpg
+  avatar:      /assets/images/404cat.jpg
   member:      true
   current:     true
 
@@ -122,14 +111,9 @@ leung-ryan:
 
 mejia-emilio:
   name:        Emilio Mejia
-  bio:         SF State Scholar pursuing B.S. in Biochemistry
-  fullbio:     "
-  
-
-  
-  Full bio coming soon.
-  "
-  avatar:      /assets/images/404cat.jpg
+  bio:         SF State Scholar with B.S. in Biochemistry (limited lab affiliation)
+  fullbio:     "Glutamine synthetase disease variant wrangler with expertise in cryo-EM structure determination and enzymology from Greene lab and mass spectrometry from UCSF. Emilio graduated in Spring of 2025 and is loosely affiliated with the lab to finalize a few experiments."
+  avatar:      /assets/images/Emilio@300x-100.jpg
   member:      true
   current:     true
 
@@ -163,6 +147,17 @@ Outside of school Michelle volunteers for the Slovene National Benefit Society o
   current:     true
 
 ## Former members
+
+hales-madison:
+  name:        Madison Hales
+  bio:         Ensemble analyst and Enzyme kinetic decipherer
+  avatar:      /assets/images/Hales.jpg
+  member:      true
+  current:     false
+  start:       2023
+  end:         2025
+  next:        Medical assistant/patient care coordinator/office manager, Union Square Facial Plastic Surgery
+
 fournier-daniel:
   name:        Dan Fournier
   bio:         Ensemble analysis, structural bioinformatics, and code debugger
@@ -171,7 +166,7 @@ fournier-daniel:
   current:     false
   start:       2023
   end:         2024
-  next:        Jr. Lab Assistant II, UCSF
+  next:        Research Associate I, ATUM
 
 cruz-yuly:
   name:        Yuly Cruz
