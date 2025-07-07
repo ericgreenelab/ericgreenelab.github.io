@@ -17,6 +17,6 @@ tags:
   - structure function
 ---
 
-We recently published ["{{page.title}}"](https://doi.org/{{page.doi}}) in *{{page.journal}}*. Congratulations! Special thanks to co-first authors Markus and Cyrina for writing, editing, and figure making. 
+We recently published ["{{page.title}}"](https://doi.org/{{page.doi}}) in *{{page.journal}}*. Congratulations! Special thanks to co-first authors Markus and Cyrina for writing, editing, and figure making. Check it out if you are interested in how cells tune the activity of an ancient enzyme.
 
 {{page.abstract}}
